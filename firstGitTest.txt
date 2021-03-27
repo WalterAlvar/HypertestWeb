@@ -1,3 +1,6 @@
 This is my story using GIT by the first time
 
 I am following Platzi's course
+
+I need to understand better how to analize and compare changes between commits.
+So this is why i add this paragraph.
